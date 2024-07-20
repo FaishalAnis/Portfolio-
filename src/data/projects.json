@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Shopify",
+    "imageSrc": "projects/shop.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "AuthO"],
+    "demo": "https://nimble-cat-60e9a7.netlify.app",
+    "source": "https://github.com/FaishalAnis/E-Commerce"
+  },
+  {
+    "title": "Restaurant",
+    "imageSrc": "projects/rest.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "https://admirable-crisp-11aa61.netlify.app",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "UI",
+    "imageSrc": "projects/ui.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://poetic-marigold-52a181.netlify.app",
+    "source": "https://github.com/FaishalAnis/Radiant-Riches-LLC"
+  },
+  {
+    "title": "Chat Application",
+    "imageSrc": "projects/chat.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://startling-tarsier-43fb85.netlify.app",
+    "source": "https://github.com/FaishalAnis/CHAT---CONNECT"
+  },
+  {
+    "title": "Tick Tak Toe Game",
+    "imageSrc": "projects/tick.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://nimble-frangipane-b9e9ca.netlify.app",
+    "source": "https://github.com/FaishalAnis/PRODIGY_WD_03/tree/main/tic%20tac%20toe"
+  },
+  {
+    "title": "Stopwatch",
+    "imageSrc": "projects/stop.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://lucky-marshmallow-2d7cc0.netlify.app",
+    "source": "https://github.com/FaishalAnis/PRODIGY_WD_02/tree/main/Stopwatch"
+  },
+  {
+    "title": "Weather App",
+    "imageSrc": "projects/weather.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://neon-scone-e0d685.netlify.app",
+    "source": "https://github.com/FaishalAnis/PRODIGY_WD_05/tree/main/weatherise-master"
+  }
+]

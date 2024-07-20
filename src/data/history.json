@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Web Developer Intern",
+    "organisation": "CodeClause",
+    "startDate": "March, 2024",
+    "endDate": "April, 2024",
+    "experiences": ["Worked on Chat Application"],
+    "imageSrc": "history/code.png"
+  },
+  {
+    "role": "UI Designer",
+    "organisation": "Radiant-Riches-LLC",
+    "startDate": "March, 2024",
+    "endDate": "March, 2024",
+    "experiences": ["Worked on developing the landing page for company", "Designed with reference from Figma"],
+    "imageSrc": "history/rr.jpg"
+  },
+  {
+    "role": "Python Developer Intern",
+    "organisation": "CodeClause",
+    "startDate": "Apr, 2024",
+    "endDate": "May, 2024",
+    "experiences": [
+      "Worked on devloping a text editor"],
+    "imageSrc": "history/code.png"
+  },
+  {
+    "role": "Web Developer Intern",
+    "organisation": "Pinnacle Labs",
+    "startDate": "May, 2024",
+    "endDate": "June, 2024",
+    "experiences": ["Worked on building a shopping website from scratch"],
+    "imageSrc": "history/pin.jpeg"
+  }
+]
