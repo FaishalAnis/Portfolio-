@@ -5,6 +5,7 @@ import skills from "../../data/skills.json";
 import history from "../../data/history.json";
 import { getImageUrl } from "../../utils";
 
+
 export const Experience = () => {
   return (
     <section className={styles.container} id="experience">
